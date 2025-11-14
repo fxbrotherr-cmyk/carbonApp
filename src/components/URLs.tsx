@@ -1,1 +1,1 @@
-export const BASE_URL: string = "https://carbon-server-rho.vercel.app";
+export const BASE_URL: string = "https://young-carbon-server.vercel.app";
